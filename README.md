@@ -14,6 +14,6 @@
     <br> 
 </p>
 
-## ✍️ Authors UI
+## ✍️ Author UI
 
 [codedesign.dev](https://codedesign.dev/challenge/dressLy)
